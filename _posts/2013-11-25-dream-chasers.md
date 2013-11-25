@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Making It Happen
 ---
 
 There is 3 types of niggas in life. Niggas that make it happen, niggas that watch it happen, and niggas that dunno wtf is going on. Choose one.
